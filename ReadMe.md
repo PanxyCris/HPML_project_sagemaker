@@ -40,7 +40,8 @@ DNN plays an important role in AI's world. But training a DNN is time-comsuming.
 </div>
 
 <div align="justify"> 
-We provide the steps to run our experiment. Parameter settings in `[sagemaker_submission.py]`, you need to:
+
+We provide the steps to run our experiment. Parameter settings in `sagemaker_submission.py`, you need to:
 
 1. Enter you AWS Access ID and Key. 
 2. Adjust the S3 data path according to your own settings(in AWS)
