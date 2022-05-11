@@ -10,7 +10,7 @@
 
 <div align="center"> 
   
-# Distributed Training based on Amazon Sagemaker
+# Distributed Deep Learning based on Amazon Sagemaker
 
 #### Project  Report  for  ECE-GY  9143  Intro To High Performance Machine Learning
 
